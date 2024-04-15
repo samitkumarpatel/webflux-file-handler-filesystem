@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.samitkumarpatel</groupId>
-	<artifactId>webflux-file-upload-download</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>webflux-file-upload-download</name>
-	<description>WebFlux File Upload and Download</description>
+	<artifactId>webflux-file-handler-filesystem</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>webflux-file-handler-filesystem</name>
+	<description>WebFlux File Upload and Download to a file system</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
